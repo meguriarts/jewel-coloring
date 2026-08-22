@@ -1,0 +1,10 @@
+{
+  "versi": 1,
+  "aset": [
+    {
+      "id": "daily_01",
+      "tanggal_buka": "2026-08-23",
+      "url_gambar": "https://server.com/bunga.png"
+    }
+  ]
+}
