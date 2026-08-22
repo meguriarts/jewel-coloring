@@ -4,7 +4,22 @@
     {
       "id": "daily_01",
       "tanggal_buka": "2026-08-23",
-      "url_gambar": "https://server.com/bunga.png"
+      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/Daily/48.png"
+    },
+    {
+      "id": "daily_02",
+      "tanggal_buka": "2026-08-24",
+      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/Daily/49.png"
+    },
+    {
+      "id": "daily_03",
+      "tanggal_buka": "2026-08-25",
+      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/Daily/52.png"
+    },
+    {
+      "id": "daily_04",
+      "tanggal_buka": "2026-08-25",
+      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/Daily/54.png"
     }
   ]
 }
