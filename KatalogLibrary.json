@@ -1,0 +1,10 @@
+{
+  "versi": 1,
+  "aset": [
+    {
+      "id": "semangka_01",
+      "kategori": "food",
+      "url_gambar": "https://server.com/semangka.png"
+    }
+  ]
+}
