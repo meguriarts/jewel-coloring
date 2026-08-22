@@ -4,27 +4,27 @@
     {
       "id": "new_01",
       "kategori": "food",
-      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/library/17.png"
+      "url_gambar": "https://raw.github.com/meguriarts/jewel-coloring/blob/main/library/17.png"
     },
     {
       "id": "new_02",
       "kategori": "food",
-      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/library/19.png"
+      "url_gambar": "https://raw.github.com/meguriarts/jewel-coloring/blob/main/library/19.png"
     },
     {
       "id": "new_03",
       "kategori": "object",
-      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/library/20.png"
+      "url_gambar": "https://raw.github.com/meguriarts/jewel-coloring/blob/main/library/20.png"
     },
     {
       "id": "new_04",
       "kategori": "food",
-      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/library/29.png"
+      "url_gambar": "https://raw.github.com/meguriarts/jewel-coloring/blob/main/library/29.png"
     },
     {
       "id": "new_05",
       "kategori": "cute",
-      "url_gambar": "https://github.com/meguriarts/jewel-coloring/blob/main/library/47.png"
+      "url_gambar": "https://raw.github.com/meguriarts/jewel-coloring/blob/main/library/47.png"
     }
   ]
 }
