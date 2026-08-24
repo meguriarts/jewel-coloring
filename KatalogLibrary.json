@@ -1,5 +1,5 @@
 {
-  "versi": 1,
+  "versi": 2,
   "aset": [
     {
       "id": "new_01",
@@ -25,6 +25,16 @@
       "id": "new_05",
       "kategori": "cute",
       "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/library/47.png"
+    },
+    {
+      "id": "new_06",
+      "kategori": "animal",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/library/67.png"
+    },
+    {
+      "id": "new_07",
+      "kategori": "princes",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/library/68.png"
     }
   ]
 }
