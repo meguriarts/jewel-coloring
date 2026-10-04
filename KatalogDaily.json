@@ -65,6 +65,16 @@
       "id": "daily_13",
       "tanggal_buka": "2026-10-03",
       "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/031026.png"
+    },
+    {
+      "id": "daily_14",
+      "tanggal_buka": "2026-10-04",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/041026.png"
+    },
+    {
+      "id": "daily_15",
+      "tanggal_buka": "2026-10-05",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/051026.png"
     }
   ]
 }
