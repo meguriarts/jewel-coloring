@@ -1,5 +1,5 @@
 {
-  "versi": 3,
+  "versi": 4,
   "aset": [
     {
       "id": "daily_01",
@@ -75,6 +75,46 @@
       "id": "daily_15",
       "tanggal_buka": "2026-10-05",
       "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/051026.png"
+    },
+    {
+      "id": "daily_16",
+      "tanggal_buka": "2026-10-06",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/061026.png"
+    },
+    {
+      "id": "daily_17",
+      "tanggal_buka": "2026-10-07",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/071026.png"
+    },
+    {
+      "id": "daily_18",
+      "tanggal_buka": "2026-10-08",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/081026.png"
+    },
+    {
+      "id": "daily_19",
+      "tanggal_buka": "2026-10-09",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/091026.png"
+    },
+    {
+      "id": "daily_20",
+      "tanggal_buka": "2026-10-10",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/101026.png"
+    },
+    {
+      "id": "daily_21",
+      "tanggal_buka": "2026-10-21",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/111026.png"
+    },
+    {
+      "id": "daily_22",
+      "tanggal_buka": "2026-10-22",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/121026.png"
+    },
+    {
+      "id": "daily_23",
+      "tanggal_buka": "2026-10-23",
+      "url_gambar": "https://raw.githubusercontent.com/meguriarts/jewel-coloring/main/Daily/131026.png"
     }
   ]
 }
